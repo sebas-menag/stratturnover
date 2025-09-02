@@ -1,7 +1,5 @@
 Readme for Mena et al. 2025
 
-Sebastian Mena, PUCE
-
 This is the data and analyses for the manuscript: Mena et al. "Vertical stratification shapes horizontal turnover in Neotropical butterfly communities".
 
 Project aim
