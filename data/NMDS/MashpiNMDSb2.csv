@@ -1,0 +1,17 @@
+﻿trap,strata,Adelpha,Ancyluris inca,Antirrhea,Archaeoprepona,Brachyglenis dinora,Caligo,Callicore atacama,Catoblepia orgetorix,Catonephele numilia,Cithaerias pireta,Colobura annulata,Diaethria,Epiphile orea,Euselasia jocotoco,Haetera macleannania,Hamadryas amphinome,Heliconius,Hermeuptychia,Hesperiidae_mashpi03,Lycaenidae,Lycaenidae_mashpi02,Magneuptychia,Megeuptychia antonoe,Memphis,Mesosemia ceropia,Morpho amathonte,Nessaea aglaura,Ocaria aholiba,Opsiphanes,Panaropsis elegans,Pareuptychia,Pierella,Pseudodebis celia_02,Rhetus dysonii,Smyrna blomfildia,Tigridia acesta,Zaretis
+12,canopy,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+34,canopy,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2
+56,canopy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+78,canopy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+910,canopy,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0
+1112,canopy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,1
+1315,canopy,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,3,0,1
+16,canopy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,understorey,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,understorey,0,1,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+56,understorey,0,1,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,0,0,0,2,0,0,1,0,3,0,0,0,0,0
+78,understorey,0,0,2,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+910,understorey,1,0,1,0,0,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1112,understorey,0,0,1,0,0,2,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,2,0,1,1,0,0,0,3,1,0,0,0,0,0
+1314,understorey,0,0,0,1,0,4,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+1516,understorey,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
